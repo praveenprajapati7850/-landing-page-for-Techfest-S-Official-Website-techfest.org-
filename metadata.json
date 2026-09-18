@@ -1,0 +1,6 @@
+{
+  "name": "Techfest 30 — IIT Bombay",
+  "description": "The official 30th edition landing page of Techfest, IIT Bombay — Asia's Largest Science & Technology Festival. Theme: An Aetherial Renaissance (16–18 Dec 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
